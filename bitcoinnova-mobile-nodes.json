@@ -1,0 +1,63 @@
+{
+  "nodes":[
+        {
+          "name": "Seed Node 1",
+          "url": "mn1.bitcoinnova.org",
+          "port": 45223,
+          "ssl": false,
+          "cache":false,
+          "fee":100000,
+          "availability":100,
+          "online":true,
+          "version":"0.26.2",
+          "timestamp":1626519513
+        },
+        {
+          "name": "Seed Node 2",
+          "url": "mn2.bitcoinnova.org",
+          "port": 45223,
+          "ssl": false,
+          "cache":false,
+          "fee":100000,
+          "availability":100,
+          "online":true,
+          "version":"0.26.2",
+          "timestamp":1623819513
+        },
+        {
+          "name": "Seed Node 7",
+          "url": "mn7.bitcoinnova.org",
+          "port": 45225,
+          "ssl": false,
+          "cache":false,
+          "fee":100000,
+          "availability":100,
+          "online":true,
+          "version":"0.26.2",
+          "timestamp":1626219513
+        },{
+          "name": "Seed Node 9",
+          "url": "mn9.bitcoinnova.org",
+          "port": 45223,
+          "ssl": false,
+          "cache":false,
+          "fee":100000,
+          "availability":100,
+          "online":true,
+          "version":"0.26.2",
+          "timestamp":1626119513
+        },
+        {
+          "name": "SuperBlockchain Pool Node",
+          "url": "superblockchain.con-ip.com",
+          "port": 45223,
+          "ssl": false,
+          "cache":false,
+          "fee":1000000,
+          "availability":100,
+          "online":true,
+          "version":"0.26.2",
+          "timestamp":1626019513
+        }
+  ]
+}
